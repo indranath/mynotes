@@ -7,7 +7,7 @@
 1. Claude Code
 2. Gemini CLI
 3. Crush CLI
-4. Qwen COde
+4. Qwen Code
 
 ### IDE
 
