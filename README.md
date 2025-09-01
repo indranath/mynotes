@@ -1,5 +1,10 @@
 # AI Tools
 
+## Platforms
+
+1. DeepSeek - https://platform.deepseek.com/
+2. Open Router - https://openrouter.ai/settings/
+
 ## Coding
 
 ### CLI based
@@ -19,6 +24,7 @@
 1. SpeechMA - https://speechma.com/
 2. LoveVoiceAI - https://lovevoice.ai/
 3. NaturalReaders - https://www.naturalreaders.com/online/
+4. Sarvam Indic - https://dashboard.sarvam.ai/
 
 ## Text to Image
 
