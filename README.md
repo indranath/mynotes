@@ -4,6 +4,7 @@
 
 1. DeepSeek - https://platform.deepseek.com/
 2. Open Router - https://openrouter.ai/settings/
+3. Agent Router - https://agentrouter.org/
 
 ## Coding
 
@@ -13,6 +14,7 @@
 2. Gemini CLI
 3. Crush CLI
 4. Qwen Code
+5. https://github.com/github/spec-kit
 
 ### IDE
 
